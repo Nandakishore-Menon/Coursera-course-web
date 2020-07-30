@@ -1,4 +1,4 @@
-#HTML, CSS and JavaScript course on Coursera
+# HTML, CSS and JavaScript course on Coursera
 
 This repository contains materials and solutions to assignments in the following course on Coursera:
 
